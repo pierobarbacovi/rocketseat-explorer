@@ -1,6 +1,6 @@
 # 👨‍🚀 Rocketseat's Explorer coursework projects
 
-        
+![image](https://user-images.githubusercontent.com/79809594/167693803-de0b5f6f-3977-417b-b190-87116653b61c.png)    
 
 This is a way to document my journey as a WebDev aspirer 🚀
 
