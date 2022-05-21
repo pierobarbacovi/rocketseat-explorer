@@ -1,0 +1,213 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --heading-color: hsl(218, 17%, 62%);
+  --title-color: hsl(275, 18%, 79%);
+  --main-color: hsl(233, 100%, 97%);
+  --texting-color: hsl(274, 84%, 12%);
+  --card-color: hsl(232, 17%, 35%);
+  --span-color: hsl(312, 91%, 96%);
+
+  font-size: 62.5%;
+  --fs-title: 4rem;
+  --fs-texting: 2rem;
+  
+  --ff-paragraph: 'Palanquin', sans-serif;
+  --ff-body: 'Staatliches', cursive;
+}
+
+.page {
+  font-family: var(--ff-body);
+
+  min-width: 38.4rem;
+  max-width: 120rem;
+  margin: 0 auto;
+}
+
+header {
+  background: var(--heading-color);
+  display: flex;
+  flex-direction: column;
+}
+
+header img {
+  margin: 3.2rem auto;
+}
+
+header h1 {
+  background: var(--title-color);
+  
+  color: white;
+  font-size: var(--fs-title);
+  font-weight: 400;
+  line-height: 3.4rem;
+  
+  letter-spacing: 0.05em;
+  
+  text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.25);
+
+  text-transform: uppercase;
+  margin-bottom: 3rem;
+
+  text-align: center;
+  padding: .8rem;
+}
+
+main {
+  display: grid;
+  gap: 6.3rem;
+  padding: 1.4rem 3.2rem 6rem;
+
+  text-align: center;
+
+  background: var(--main-color);
+  font-size: var(--fs-texting);
+}
+
+p {
+  font-family: var(--ff-paragraph);
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--texting-color);
+  line-height: 1.5rem;
+  
+  text-align: center;
+  margin-top: 1.4rem;
+}
+
+main .card {
+  position: relative;
+  border-radius: 20px;
+}
+
+main .card span {
+  position: absolute;
+  top: 1.6rem;
+  right: 1.6rem;
+  background: var(--span-color);
+  border-radius: 20px;
+  
+  padding: 1px 2.4rem;
+
+  color: var(--card-color);
+  text-transform: uppercase;
+  font-size: var(--fs-texting);
+
+  animation: topdown 700ms 350ms backwards;
+}
+
+main .cards {
+  display: flex;
+  flex-direction: column;
+  gap: 3.2rem;
+
+  animation: downtop 1s;
+}
+
+main .card img {
+  transition: all 700ms;
+  width: 100%;
+  height: auto;
+}
+
+.card img:hover {
+  transform: scale(1.1);
+  opacity: 0.4;
+}
+
+@keyframes topdown {
+  0% {
+    opacity: 0;
+    transform: translateY(-15px);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes downtop {
+  0% {
+    opacity: 0;
+    transform: translateY(15px);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (min-width: 700px) {
+  .page {
+    max-width: 128rem;
+    display: flex;
+    padding: 0 auto;
+    
+  }
+
+  header {
+    width: 37.7rem;
+  }
+
+  p {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.4rem;
+    line-height: 2rem;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 0 5rem;
+  }
+
+  main {
+    max-width: 128rem;
+    width: 100%;
+    
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-areas: "A B A"
+      "D B D"
+      "D E D";
+    gap: 3.2rem;
+  }
+
+  main .cards div:nth-child(1) {
+    grid-area: A;
+  }
+  
+  main .cards div:nth-child(2) {
+    grid-area: B;
+  }
+  
+  main .cards div:nth-child(3) {
+    grid-area: C;
+  }
+  
+  main .cards div:nth-child(4) {
+    grid-area: D;
+  }
+
+  footer {
+    display: block;
+    background: var(--main-color);
+    
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 28px;
+    text-align: center;
+    color: #4A4E69;
+  }
+
+  footer a {
+    text-decoration: none;
+  }
+}
