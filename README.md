@@ -15,4 +15,8 @@ Also, please get in touch if I can help you with anything!
 
 # Table of contents
 
+<<<<<<< HEAD
 git push
+=======
+[Projeto 1](https://github.com/pierobarbacovi/rocketseat-explorer/tree/main/Stage%2001)
+>>>>>>> 8aacdda411a9ac42ccee2deb34e7f4011357c7db
