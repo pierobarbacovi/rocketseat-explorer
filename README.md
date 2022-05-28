@@ -27,4 +27,3 @@ Also, please get in touch if I can help you with anything!
 - 11<sup>th</sup> Project: [Creating forms #2](https://github.com/pierobarbacovi/rocketseat-explorer/tree/main/Stage%2003/Desafio%20Intermediario/Criando%20formularios/Desafio%202) (Intermediate Challenge🔥)
 - 12<sup>th</sup> Project: [Mobile First](https://github.com/pierobarbacovi/rocketseat-explorer/tree/main/Stage%2003/Desafio%20Intermediario/Mobile%20first) (Intermediate Challenge🔥)
 - 13<sup>th</sup> Project: [Space Cream](https://github.com/pierobarbacovi/rocketseat-explorer/tree/main/Stage%2003/Desafio%20Avancado) (Advanced Challeng🔥)
--
