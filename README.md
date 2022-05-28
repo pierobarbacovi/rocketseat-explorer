@@ -17,14 +17,14 @@ Also, please get in touch if I can help you with anything!
 
 - 1<sup>st</sup> Project: [Introduction to HTML and CSS](https://github.com/pierobarbacovi/rocketseat-explorer/tree/main/Stage%2001)
 - 2<sup>nd</sup> Project: [Getting used to new HTML and CSS concepts](https://github.com/pierobarbacovi/rocketseat-explorer/tree/main/Stage%2002/Projeto%20aula%2002)
-- 3<sup>rd</sup> Project: [Semantics and accessibility](https://github.com/pierobarbacovi/rocketseat-explorer/tree/main/Stage%2002/Desafio%20Intermediario%20-%20Semantica%20e%20Acessibilidad)(Intermediate Challenge🔥)
-- 4<sup>th</sup> Project: [Recreating Layout](https://github.com/pierobarbacovi/rocketseat-explorer/tree/main/Stage%2002/Desafio%20Avancado)(Advanced Challenge🔥)
+- 3<sup>rd</sup> Project: [Semantics and accessibility](https://github.com/pierobarbacovi/rocketseat-explorer/tree/main/Stage%2002/Desafio%20Intermediario%20-%20Semantica%20e%20Acessibilidad) (Intermediate Challenge🔥)
+- 4<sup>th</sup> Project: [Recreating Layout](https://github.com/pierobarbacovi/rocketseat-explorer/tree/main/Stage%2002/Desafio%20Avancado) (Advanced Challenge🔥)
 - 5<sup>th</sup> Project: [Forms, validation and customization](https://github.com/pierobarbacovi/rocketseat-explorer/tree/main/Stage%2003/Projeto%20aula%2003/01)
 - 6<sup>th</sup> Project: [Desktop Version](https://github.com/pierobarbacovi/rocketseat-explorer/tree/main/Stage%2003/Projeto%20aula%2003/02)
 - 7<sup>th</sup> Project: [Grid with animations #1](https://github.com/pierobarbacovi/rocketseat-explorer/tree/main/Stage%2003/Projeto%20aula%2003/03)
 - 8<sup>th</sup> Project: [Grid with animations #2](https://github.com/pierobarbacovi/rocketseat-explorer/tree/main/Stage%2003/Projeto%20aula%2005)
-- 9<sup>th</sup> Project: [Creating forms #1](https://github.com/pierobarbacovi/rocketseat-explorer/tree/main/Stage%2003/Desafio%20Intermediario/Criando%20formularios/Desafio%201)(Intermediate Challenge🔥)
-- 11<sup>th</sup> Project: [Creating forms #2](https://github.com/pierobarbacovi/rocketseat-explorer/tree/main/Stage%2003/Desafio%20Intermediario/Criando%20formularios/Desafio%202)(Intermediate Challenge🔥)
-- 12<sup>th</sup> Project: [Mobile First](https://github.com/pierobarbacovi/rocketseat-explorer/tree/main/Stage%2003/Desafio%20Intermediario/Mobile%20first)(Intermediate Challenge🔥)
-- 13<sup>th</sup> Project: [Space Cream](https://github.com/pierobarbacovi/rocketseat-explorer/tree/main/Stage%2003/Desafio%20Avancado)(Advanced Challeng🔥)
-- 14<sup>th</sup> Project: [NLW
+- 9<sup>th</sup> Project: [Creating forms #1](https://github.com/pierobarbacovi/rocketseat-explorer/tree/main/Stage%2003/Desafio%20Intermediario/Criando%20formularios/Desafio%201) (Intermediate Challenge🔥)
+- 11<sup>th</sup> Project: [Creating forms #2](https://github.com/pierobarbacovi/rocketseat-explorer/tree/main/Stage%2003/Desafio%20Intermediario/Criando%20formularios/Desafio%202) (Intermediate Challenge🔥)
+- 12<sup>th</sup> Project: [Mobile First](https://github.com/pierobarbacovi/rocketseat-explorer/tree/main/Stage%2003/Desafio%20Intermediario/Mobile%20first) (Intermediate Challenge🔥)
+- 13<sup>th</sup> Project: [Space Cream](https://github.com/pierobarbacovi/rocketseat-explorer/tree/main/Stage%2003/Desafio%20Avancado) (Advanced Challeng🔥)
+-
